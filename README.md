@@ -60,9 +60,9 @@ Im Folgenden findest Du ein Quiz zu der Vorlesung zum Thema Unterrichtsmethoden.
 
 ## Welcher dieser Vorschläge für einen Informatik-Fachraum geht auf Humbert (2007) zurück?
 
-![Humbert Informatikraum](Bilder/humbertraum.jpg)
+![Humbert Informatikraum](humbertraum.jpg)
 
-![Hartmann Informatikraum](Bilder/hartmannraum.jpg)
+![Hartmann Informatikraum](hartmannraum.jpg)
 
 [(x)] A
 [( )] B
@@ -78,7 +78,7 @@ Im Folgenden findest Du ein Quiz zu der Vorlesung zum Thema Unterrichtsmethoden.
 
 ## Welche großen Veränderungen wurden bei dem Raumkonzept von Schubert und Schwill (2011) beschrieben?
 
-![Schubert Informatikraum](Bilder/Infraum-Schubert.png)
+![Schubert Informatikraum](Infraum-Schubert.png)
 
 
 [[x]] Vorbereitungsraum für Lehrkräfte
